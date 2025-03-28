@@ -11,19 +11,21 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
+app.UseDeveloperExceptionPage();
+
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+//if (app.Environment.IsDevelopment())
+//{
+//    app.UseSwagger();
+//    app.UseSwaggerUI();
+//}
 
 app.UseStaticFiles();
-app.UseStaticFiles(new StaticFileOptions()
-{
-    FileProvider = new PhysicalFileProvider("D:\\LeTheAnh\\Image\\Upload\\DemoAPI"),
-    RequestPath = new PathString("/api/DemoAPI")
-});
+//app.UseStaticFiles(new StaticFileOptions()
+//{
+//    FileProvider = new PhysicalFileProvider("D:\\LeTheAnh\\Image\\Upload\\DemoAPI"),
+//    RequestPath = new PathString("/api/DemoAPI")
+//});
 
 app.UseHttpsRedirection();
 

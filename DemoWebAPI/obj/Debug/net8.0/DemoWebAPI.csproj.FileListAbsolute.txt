@@ -69,3 +69,5 @@ C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_2203
 C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.pdb
 C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.genruntimeconfig.cache
 C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\ref\DemoWebAPI.dll
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.sourcelink.json
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
