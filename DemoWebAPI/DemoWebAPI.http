@@ -1,0 +1,30 @@
+﻿@DemoWebAPI_HostAddress = http://localhost:5042
+
+### 1️⃣ GET danh sách nhân viên
+GET {{DemoWebAPI_HostAddress}}/api/employee/
+Accept: application/json
+
+### 2️⃣ GET tìm kiếm nhân viên theo tên
+GET {{DemoWebAPI_HostAddress}}/api/employee/search?name=Nguyễn
+Accept: application/json
+
+### 3️⃣ POST lưu danh sách nhân viên vào file
+POST {{DemoWebAPI_HostAddress}}/api/postemployee
+Accept: application/json
+
+### 4️⃣ POST upload file lên thư mục D:\UploadFile
+POST {{DemoWebAPI_HostAddress}}/api/upload?path=D:\UploadFile
+Content-Type: multipart/form-data; boundary=WebAPIFileUpload
+
+--WebAPIFileUpload
+Content-Disposition: form-data; name="file"; filename="test.txt"
+Content-Type: text/plain
+
+< ./test.txt
+--WebAPIFileUpload--
+
+### 5️⃣ GET download file từ thư mục D:\UploadFile
+GET {{DemoWebAPI_HostAddress}}/api/download/test.txt
+Accept: application/octet-stream
+
+###

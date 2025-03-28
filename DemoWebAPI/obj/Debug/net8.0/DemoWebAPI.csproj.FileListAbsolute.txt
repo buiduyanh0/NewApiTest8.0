@@ -1,0 +1,71 @@
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\appsettings.json
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\DemoWebAPI.staticwebassets.endpoints.json
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\DemoWebAPI.exe
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\DemoWebAPI.deps.json
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\DemoWebAPI.runtimeconfig.json
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\DemoWebAPI.dll
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\DemoWebAPI.pdb
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.csproj.AssemblyReference.cache
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.AssemblyInfoInputs.cache
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.AssemblyInfo.cs
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.csproj.CoreCompileInputs.cache
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\scopedcss\bundle\DemoWebAPI.styles.css
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.DemoWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.DemoWebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.DemoWebAPI.props
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DemoWebAPI.props
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DemoWebAPI.props
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.csproj.Up2Date
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.dll
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\refint\DemoWebAPI.dll
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.pdb
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.genruntimeconfig.cache
+D:\LeTheAnh\RTC\Project\2024\Demo\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\ref\DemoWebAPI.dll
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\DemoWebAPI.staticwebassets.endpoints.json
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\DemoWebAPI.exe
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\DemoWebAPI.deps.json
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\DemoWebAPI.runtimeconfig.json
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\DemoWebAPI.dll
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\DemoWebAPI.pdb
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.AssemblyInfo.cs
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\scopedcss\bundle\DemoWebAPI.styles.css
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.DemoWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.DemoWebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.DemoWebAPI.props
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DemoWebAPI.props
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DemoWebAPI.props
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.csproj.Up2Date
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.dll
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\refint\DemoWebAPI.dll
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.pdb
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\DemoWebAPI.genruntimeconfig.cache
+C:\Users\Admin\Documents\Zalo Received Files\TrainingWebAPI_2203\DemoWebAPI_220325\DemoWebAPI\DemoWebAPI\obj\Debug\net8.0\ref\DemoWebAPI.dll
